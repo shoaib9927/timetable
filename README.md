@@ -1,34 +1,30 @@
-Interactive Weekly Timetable
-A clean, responsive, and interactive weekly schedule built with HTML, Tailwind CSS, and JavaScript.
+# Interactive Weekly Timetable
 
-Features
-Displays a weekly timetable with days and time slots (Morning, Afternoon, Evening).
+A responsive and interactive weekly timetable built with HTML, Tailwind CSS, and JavaScript.
 
-Clickable tags for each class or person to view detailed scheduled times.
+## Features
 
-Modal popup for viewing full schedule details.
+- Displays schedules by day and time (Morning, Afternoon, Evening).
+- Clickable tags open a modal showing detailed schedule info.
+- Responsive design for desktop and mobile.
+- Clean, modern styling using Tailwind CSS.
 
-Responsive design that adapts gracefully to mobile and desktop screens.
+## Usage
 
-Styled with Tailwind CSS and custom fonts for a modern look.
+1. Clone or download the repo.
+2. Open `index.html` in a web browser.
+3. Click any class or name tag to view its full schedule.
 
-Getting Started
-Clone the repository or download the files.
+## File Structure
 
-Open index.html in your browser.
+- `index.html` — Main HTML page.
+- `styles.css` — Custom styles and Tailwind CSS.
+- `script.js` — Timetable rendering and modal logic.
 
-Click any class or name tag to see its full schedule.
+## License
 
-File Structure
-index.html — Main HTML structure and layout.
+MIT License
 
-styles.css — Custom styles and Tailwind CSS integration.
+---
 
-script.js — JavaScript logic for rendering timetable and modal interactions.
-
-Technologies Used
-HTML5
-
-CSS3 (Tailwind CSS)
-
-JavaScript (Vanilla JS)
+*Created by [Your Name]*
